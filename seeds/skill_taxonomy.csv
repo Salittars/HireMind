@@ -1,0 +1,52 @@
+skill,category,pattern
+SQL,language,\bsql\b|\bt-sql\b
+Python,language,\bpython\b
+R,language,"\brstudio\b|\btidyverse\b|\br shiny\b|\bin r\b|\bpython or r\b|\br or python\b|\bpython/r\b|\br/python\b|\bpython\s*,\s*r\b|\br\s*,\s*python\b"
+Scala,language,\bscala\b
+Java,language,\bjava\b
+JavaScript/TypeScript,language,\bjavascript\b|\btypescript\b
+Excel,bi,\bexcel\b
+Power BI,bi,\bpower\s?bi\b|\bpowerbi\b|\bdax\b
+Tableau,bi,\btableau\b
+Looker,bi,\blooker\b
+dbt,data engineering,\bdbt\b
+Spark,data engineering,\bspark\b|\bpyspark\b
+Databricks,data engineering,\bdatabricks\b
+Snowflake,data engineering,\bsnowflake\b
+BigQuery,data engineering,\bbigquery\b|\bbig query\b
+Airflow,data engineering,\bairflow\b
+Kafka,data engineering,\bkafka\b
+ETL/ELT,data engineering,\betl\b|\belt\b|\bdata pipelines?\b|\bdatenpipelines?\b
+Data modelling,data engineering,\bdata model(l)?ing\b|\bdimensional model\b|\bstar schema\b|\bdatenmodell
+Data warehouse,data engineering,\bdata warehous|\bdwh\b|\blakehouse\b|\bdata lake\b
+PostgreSQL,database,\bpostgres(ql)?\b
+MongoDB,database,\bmongodb\b
+AWS,cloud,\baws\b|\bamazon web services\b
+Azure,cloud,\bazure\b
+GCP,cloud,\bgcp\b|\bgoogle cloud\b
+Docker,devops,\bdocker\b|\bcontaineri[sz]
+Kubernetes,devops,\bkubernetes\b|\bk8s\b
+Terraform,devops,\bterraform\b
+Git,devops,\bgit\b|\bgithub\b|\bgitlab\b
+CI/CD,devops,\bci\s?/\s?cd\b|\bcontinuous integration\b|\bgithub actions\b|\bgitlab ci\b|\bjenkins\b
+Linux,devops,\blinux\b
+MLOps,ml,\bmlops\b|\bmlflow\b|\bkubeflow\b|\bsagemaker\b|\bvertex ai\b|\bmodel deployment\b
+Machine learning,ml,\bmachine learning\b|\bml\b|\bmaschinelles lernen\b
+Deep learning,ml,\bdeep learning\b|\bneural networks?\b
+PyTorch,ml,\bpytorch\b|\btorch\b
+TensorFlow,ml,\btensorflow\b|\bkeras\b
+scikit-learn,ml,\bscikit-learn\b|\bsklearn\b|\bscikit\b
+Pandas,ml,\bpandas\b
+NumPy,ml,\bnumpy\b
+Statistics,ml,\bstatistic|\bstatistik
+A/B testing,ml,\ba/b test|\bab test|\bexperimentation\b
+NLP,ai,\bnlp\b|\bnatural language processing\b
+Computer vision,ai,\bcomputer vision\b|\bimage recognition\b
+LLM,ai,\bllms?\b|\blarge language models?\b|\bgpt\b|\bopenai\b|\banthropic\b|\bclaude\b
+Generative AI,ai,\bgenerative ai\b|\bgenai\b|\bgen ai\b|\bgenerative ki\b
+RAG,ai,\brag\b|\bretrieval[- ]augmented\b
+LangChain/LlamaIndex,ai,\blangchain\b|\blanggraph\b|\bllamaindex\b|\bllama index\b
+Vector databases,ai,\bvector (database|db|store|search)s?\b|\bpinecone\b|\bweaviate\b|\bqdrant\b|\bpgvector\b|\bfaiss\b|\bchromadb\b|\bembeddings?\b
+AI agents,ai,\bai agents?\b|\bagentic\b|\bmulti-agent\b|\bagents? framework\b
+Prompt engineering,ai,\bprompt engineering\b|\bprompting\b
+LLM evaluation,ai,\bllm eval|\bevals\b|\bmodel evaluation\b|\bevaluation (framework|pipeline)s?\b
