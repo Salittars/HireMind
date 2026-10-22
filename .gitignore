@@ -1,0 +1,23 @@
+# Data that is fetched or built locally (only data/sample/ is committed)
+data/raw/
+data/index/
+data/*.duckdb
+data/*.duckdb.wal
+*.duckdb
+
+# Secrets
+.env
+
+# Personal study notes (not part of the repo)
+LEARN.md
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
