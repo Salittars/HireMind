@@ -1,0 +1,7 @@
+priority,role_family,pattern
+1,Analytics engineer,analytics engineer
+2,Data engineer,data engineer|daten.?ingenieur|data platt?form|data architect|data integration|data migration|\betl\b|\bdbt\b|big data|engineer.*\bdata\b|\bdata\b.*engineer
+3,Data scientist,data scien|scientist|statisti|\bquant
+4,ML / AI role,machine learning|\bml\b|mlops|\bai\b|\bki\b|genai|\bllm|deep learning|computer vision|\bnlp\b|research engineer
+5,BI / data analyst,\bbi\b|business intelligence|power bi|data analy|analytics|reporting|daten.?analy|analist|datenanalyst
+6,Business analyst,business analy|analyst|analytiker
