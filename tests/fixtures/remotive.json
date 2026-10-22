@@ -1,0 +1,15 @@
+{"source": "remotive", "fetched_at": "2026-10-20T10:00:00+00:00", "jobs": [
+ {"id": 1001, "url": "https://example.org/jobs/1001", "title": "Senior Data Engineer", "company_name": "Acme Data",
+  "company_logo": null, "category": "Data", "tags": ["python", "dbt"], "job_type": "full_time",
+  "publication_date": "2026-10-18T09:00:00", "candidate_required_location": "Europe",
+  "salary": "$120k - $150k",
+  "description": "<p>Build ELT pipelines with <strong>dbt</strong>, Snowflake and Airflow.</p><ul><li>Python &amp; SQL</li></ul>"},
+ {"id": 1002, "url": "https://example.org/jobs/1002", "title": "Senior Data Engineer", "company_name": "Acme Data",
+  "company_logo": null, "category": "Data", "tags": [], "job_type": "full_time",
+  "publication_date": "2026-10-17T09:00:00", "candidate_required_location": "Worldwide",
+  "salary": "", "description": "<p>Same job, posted again for another region.</p>"},
+ {"id": 1003, "url": "https://example.org/jobs/1003", "title": "Customer Support Agent", "company_name": "Other Co",
+  "company_logo": null, "category": "Customer Service", "tags": [], "job_type": "full_time",
+  "publication_date": "2026-10-18T09:00:00", "candidate_required_location": "USA",
+  "salary": "", "description": "<p>Answer customer tickets.</p>"}
+]}
