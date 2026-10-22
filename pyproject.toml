@@ -1,0 +1,18 @@
+[project]
+name = "hiremind"
+version = "0.1.0"
+description = "Data pipeline + RAG assistant over public data/AI job postings"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "B", "UP"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
