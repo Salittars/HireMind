@@ -1,0 +1,12 @@
+Q: Which jobs want RAG and vector database experience?
+[retriever=hybrid, generator=extractive]
+
+Top 5 matching postings.
+Skills they ask for most: Python (5/5), RAG (4/5), AWS (3/5), Git (3/5), LLM (3/5), LangChain/LlamaIndex (3/5).
+RAG is mentioned in 4 of 5 of these postings.
+Vector databases is mentioned in 2 of 5 of these postings.
+- [arbeitnow-lead-ai-engineer-freelance-paris-485024] Lead AI engineer - Freelance – Mirakl - Labs: "…Docker and Kubernetes You'll Love This Job If you have 7+ years in Software Engineering, ML Engineering, or Applied AI Strong experience with LLMs, RAG, AI Agents, evaluation, and production systems Ability to influence Product and Business decisions Proven leadership on complex" (https://www.arbeitnow.fr/jobs/companies/mirakl-labs/lead-ai-engineer-freelance-paris-485024)
+- [arbeitnow-senior-generative-ai-engineer-zurich-65961] Senior Generative AI Engineer – SwissPeak Partners GmbH: "12 months We are looking for an experienced Senior Data Scientist to help design and deliver enterprise-grade Generative AI solutions with a strong focus on Retrieval-Augmented Generation (RAG)." (https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-generative-ai-engineer-zurich-65961)
+- [arbeitnow-ai-engineer-zurich-290826] AI Engineer – ParetoLabs: "Extensive experience as a full-stack developer with a strong focus on backend technologies (Python preferred) and familiarity with front-end frameworks (React, Angular)." (https://www.arbeitnow.ch/jobs/companies/paretolabs/ai-engineer-zurich-290826)
+- [arbeitnow-ai-engineer-analytics-end-user-insights-dusseldorf-433069] AI Engineer - Analytics & End-User Insights – Intersnack IT KG: "…language (e.g., Python, dbt) for data modelling and pipeline development Hands-on experience with prompt engineering, vector stores, and RAG patterns, including the ability to build semantic layers and design LLM-integrated workflows using frameworks such as LangChain…" (https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/ai-engineer-analytics-end-user-insights-dusseldorf-433069)
+- [arbeitnow-senior-data-engineer-london-213866] Senior Data Engineer – Xyz Reality: "Required Skills & Experience · Bachelor’s degree in computer science or a related field or equivalent proven experience in database and data pipeline development." (https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/senior-data-engineer-london-213866)
